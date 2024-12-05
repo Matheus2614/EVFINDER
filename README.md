@@ -18,6 +18,6 @@ O EVFINDER é um site desenvolvido com o objetivo de promover e divulgar eventos
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ## Autor
-- Matheus - https://github.com/Richard15151 - richard.o.ribeiro@alunosenai.com.br
+- Matheus - https://matheus2614.github.io/EVFINDER/ - matheuswincler6563@gmail.com
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
